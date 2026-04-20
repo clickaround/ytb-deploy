@@ -1,0 +1,12 @@
+{
+  "name": "ytb-deploy",
+  "description": "Cloud Run deploy automation — build, deploy, font upload, YouTube OAuth token management.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ClickAround",
+    "email": "clickaround8@gmail.com"
+  },
+  "homepage": "http://168.107.56.106/clickaround/",
+  "license": "MIT",
+  "keywords": ["claude-code", "mcp", "automation"]
+}
