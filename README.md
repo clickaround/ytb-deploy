@@ -14,3 +14,8 @@ Cloud Run deploy automation — build, deploy, font upload, YouTube OAuth token 
 ## License
 
 MIT — clickaround8@gmail.com
+
+
+## Latest posts
+
+- [2026-04-24] New: http://168.107.56.106/clickaround/blog/2026-04-24-ytb-deploy.html
