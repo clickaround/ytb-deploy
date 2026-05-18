@@ -31,6 +31,9 @@ MIT — clickaround8@gmail.com
 - [2026-05-11] New: http://168.107.56.106/clickaround/blog/2026-05-11-ytb-deploy.html
 
 
+- [2026-05-17] New: http://168.107.56.106/clickaround/blog/2026-05-17-ytb-deploy.html
+
+
 ## Latest posts
 
-- [2026-05-17] New: http://168.107.56.106/clickaround/blog/2026-05-17-ytb-deploy.html
+- [2026-05-18] New: http://168.107.56.106/clickaround/blog/2026-05-18-ytb-deploy.html
